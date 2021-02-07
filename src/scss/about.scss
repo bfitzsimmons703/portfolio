@@ -1,0 +1,16 @@
+.about {
+
+    .bio {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+
+        p {
+            width: 40%;
+
+            @include md {
+                width: 90%;
+            }
+        }
+    }
+}
