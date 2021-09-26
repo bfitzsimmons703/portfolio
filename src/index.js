@@ -6,17 +6,17 @@ import './scss/app.scss';
 
 import Header from './components/Header';
 import About from './components/About';
-import Experience from './components/Experience';
-import Projects from './components/Projects';
+import Work from './components/Work';
+import Skills from './components/Skills';
 import Contact from './components/Contact';
 
 import brianHeadshot from './assets/images/brian_headshot.jpg';
 
 const App = () => (
-    <div className="container">
-      <Header />
-      <hr />
-      <div className="home">
+  <div className="container">
+    <Header />
+    <hr />
+    <div className="home">
 
       <section className="row">
         <div className="jumbotron">
@@ -28,14 +28,14 @@ const App = () => (
 
       <About />
 
-      <Experience />
+      <Work />
 
-      {/* <Projects /> */}
+      <Skills />
 
       <Contact />
 
     </div>
-    </div>
+  </div>
 );
 
 ReactDOM.render(<App />, document.getElementById('app'));

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Projects() {
     return (
-        <section className="row experience">
+        <section className="row">
             <h3 className="row-title">Projects</h3>
             <ul className="work-list">
                 <strong>

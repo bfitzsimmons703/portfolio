@@ -1,0 +1,25 @@
+.skills {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+
+    .skill-column {
+        text-align: center;
+        min-width: 200px;
+
+        strong {
+            display: block;
+            margin-bottom: 1em;
+        }
+
+        li {
+            //Overwrite terminal.css
+            padding: 0;
+            &::after {
+                content: "";
+            }
+        }
+    }
+}
