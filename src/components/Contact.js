@@ -4,7 +4,7 @@ function Contact() {
     return (
         <section className="row">
             <h2 id="Forms">Contact</h2>
-            <form className="contact-form">
+            <form className="contact-form" data-netlify="true">
                 <fieldset>
                     <div className="form-group">
                         <label htmlFor="name">Name</label>

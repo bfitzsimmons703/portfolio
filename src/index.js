@@ -29,7 +29,7 @@ const App = () => (
 
       <Work />
 
-      {/* <Contact /> */}
+      <Contact />
 
     </div>
     </div>
