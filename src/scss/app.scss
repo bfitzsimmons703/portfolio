@@ -1,3 +1,5 @@
+@use "sass:math";
+
 :root {
     --background-color: #222225;
     --font-color: #e8e9ed;
@@ -45,8 +47,8 @@ img {
     min-width: $min-img-width;
 
     @include md {
-        width: $img-width / 1.5;
-        min-width: $min-img-width / 1.5;  
+        width: math.div($img-width, 1.5);
+        min-width: math.div($min-img-width, 1.5);  
     }
 }
 
@@ -60,7 +62,7 @@ img {
     margin: auto;
 
     .headshot-img {
-        border-radius: $img-width / 2;
+        border-radius: $img-width * 0.5;
         border: 5px solid var(--primary-color);
     }
 

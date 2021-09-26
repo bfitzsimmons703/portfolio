@@ -19,7 +19,7 @@ function About() {
           In the future, I hope to explore game development and systems-level engineering. (Looking at you Rust.)
         </p>
         <p>
-          Previously, I was an English teacher in South Korea and an aspiring food truck entrepreneur. 
+          Previously, I was an English teacher in South Korea, an aspiring food truck entrepreneur, and a WordPress developer.
           <br />
           <br />
           Thankfully, I found programming :)
