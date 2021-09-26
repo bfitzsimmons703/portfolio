@@ -13,7 +13,7 @@ function Work() {
                 <li>Used Elasticsearch, Redis, and collaborative filtering with implicit datasets to build Sporcle&apos;s recommendation engine that serves personalized content to 500,000+ users.</li>
                 <li>Collaborated with CTO and customers to develop a real-time multiplayer scoring app for live trivia that now generates over $50,000 per week.</li>
                 <li>Learned Git, React Native, and mobile app development to create Sporcle Word Ladder, a mobile trivia game available on iOS and Android with a 4.5 star rating.</li>
-                <li>Used Tableau and SQL (MySQL, Redshift) to produce graphs of Sporcle\&apos;s KPIs and investigate user behavior, bringing a data-centric/evidence-based approach to product development.</li>
+                <li>Used Tableau and SQL (MySQL, Redshift) to produce graphs of Sporcle&apos;s KPIs and investigate user behavior, bringing a data-centric/evidence-based approach to product development.</li>
             </ul>
         </section>
     )
