@@ -8,7 +8,7 @@ function Work() {
                 <strong>
                     <a href="https://www.sporcle.com" target="_blank" rel="noreferrer">Sporcle, Inc.</a>
                 </strong>
-                <p>Software Engineer, 2017 - present</p>
+                <p>Software Engineer, Sept 2017 - present</p>
                 <li>Leveraged knowledge in JavaScript, HTML/CSS, PHP, and SQL to develop and debug full-stack features across Sporcle.com&apos;s desktop and mobile sites, helping it scale to 1.6M+ gameplays per day.</li>
                 <li>Used Elasticsearch, Redis, and collaborative filtering with implicit datasets to build Sporcle&apos;s recommendation engine that serves personalized content to 500,000+ users.</li>
                 <li>Collaborated with CTO and customers to develop a real-time scoring app for live, virtual trivia that now generates over $50,000 per week.</li>

@@ -5,14 +5,10 @@ section.row.experience {
     flex-wrap: wrap;
 
     .work-list {
-        width: 45%;
+        width: 90%;
 
         li {
             margin: 1em 0;
-        }
-
-        @include md {
-            width: 90%;
         }
     }
 }

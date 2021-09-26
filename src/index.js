@@ -6,7 +6,8 @@ import './scss/app.scss';
 
 import Header from './components/Header';
 import About from './components/About';
-import Work from './components/Work';
+import Experience from './components/Experience';
+import Projects from './components/Projects';
 import Contact from './components/Contact';
 
 import brianHeadshot from './assets/images/brian_headshot.jpg';
@@ -27,7 +28,9 @@ const App = () => (
 
       <About />
 
-      <Work />
+      <Experience />
+
+      {/* <Projects /> */}
 
       <Contact />
 
