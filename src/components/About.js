@@ -10,7 +10,7 @@ function About() {
       <h3 className="row-title">About Me</h3>
       <div className="bio">
         <p>
-          Hello, I&apos;m Brian. I&apos;m a self-taught software engineer with 4 years of experience across multiple web and mobile technologies.
+          I&apos;m a self-taught software engineer with 4 years of experience building full-stack applications.
           <br />
           <br />
           I&apos;ve built cross platform mobile games, real-time multiplayer web-apps, ML-driven recommendation engines, and backend APIs that get millions of hits per day.
@@ -19,10 +19,10 @@ function About() {
           In the future, I hope to explore game development and systems-level engineering. (Looking at you Rust.)
         </p>
         <p>
-          Previously, I was an English teacher in South Korea, an aspiring food truck entrepreneur, and a WordPress developer.
+          In another life, I was an English teacher in South Korea, an aspiring food truck entrepreneur, and a WordPress developer.
           <br />
           <br />
-          Thankfully, I found programming :)
+          Outside of work you can find me playing piano and rewatching the Marvel movies.
         </p>
       </div>
     </section>
