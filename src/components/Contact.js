@@ -1,10 +1,14 @@
 import React from 'react';
 
+const FORM_NAME = `contact-form`;
+
 function Contact() {
     return (
         <section className="row">
             <h2 id="Forms">Contact</h2>
-            <form className="contact-form" netlify name="contact-form" method="POST">
+            {/* For the netlify form parser */}
+            <input type="hidden" name="form-name" value={FORM_NAME} />
+            <form className="contact-form" netlify name={FORM_NAME} method="POST">
                 <fieldset>
                     <div className="form-group">
                         <label htmlFor="name">Name</label>

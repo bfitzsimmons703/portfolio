@@ -7,7 +7,16 @@
     <title>Brian Fitzsimmons</title>
     <link rel="shortcut icon" href="./src/assets/images/favicon.ico" />
 </head>
+
 <body>
+    <!-- For the netlify form parser -->
+    <form name="contact-form" method="POST" netlify netlify-honeypot="bot-field" hidden>
+        <input name="name" type="text" required />
+        <input name="email" type="email" required />
+        <textarea name="message" required></textarea>
+        <textarea name="pods"></textarea>
+    </form>
+
     <div id="app"></div>
     <script src="./src/index.js"></script>
 </body>
