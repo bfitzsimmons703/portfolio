@@ -24,6 +24,7 @@ const skills = [
             'Firebase',
             'Tableau',
             'Salesforce',
+            'Swift',
         ],
     },
 ];
