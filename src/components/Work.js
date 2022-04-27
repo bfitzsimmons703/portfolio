@@ -15,7 +15,7 @@ function Work() {
                 <li>Learned Git, React Native, and mobile app development to create Sporcle Word Ladder, a mobile trivia game available on iOS and Android with a 4.5 star rating.</li>
                 <li>Learned Swift to build the majority of Sporcle&apos;s revamped iOS app, including in-app purchases, social authentication, web-view rendering, and backend infrastructure.</li>
                 <li>Used Tableau and SQL (MySQL, Redshift) to produce graphs of Sporcle&apos;s KPIs and investigate user behavior, bringing a data-centric/evidence-based approach to product development.</li>
-                <li>Designed a timeseries forecasting model that predicted Sporcle KPIs with 98% accuracy between 2020-2022.</li>
+                <li>Designed a timeseries forecasting model that predicted monthly gameplays with 98% accuracy between 2020-2022.</li>
             </ul>
         </section>
     )
