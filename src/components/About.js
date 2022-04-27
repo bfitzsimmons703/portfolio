@@ -22,7 +22,7 @@ function About() {
           Previously, I was an English teacher in South Korea, an aspiring food truck chef, and a WordPress developer.
           <br />
           <br />
-          Outside of work you can find me playing piano and rewatching the Marvel movies.
+          Outside of work you can find me playing piano and rewatching that scene where Cap picks up Mjolnir in Avengers: Endgame.
         </p>
       </div>
     </section>

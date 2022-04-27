@@ -12,19 +12,21 @@ const skills = [
             "Redis",
             "Amazon Web Services",
             "HTML/CSS",
+            "Git",
         ],
     },
     {
         label: "Familiar",
         list: [
-            'Python', 
-            'Machine Learning', 
+            'Python',
+            'Machine Learning',
             'Elasticsearch',
             'Mobile Development',
             'Firebase',
             'Tableau',
             'Salesforce',
             'Swift',
+            'Docker',
         ],
     },
 ];
