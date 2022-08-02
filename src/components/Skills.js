@@ -5,6 +5,7 @@ const skills = [
         label: "Proficient",
         list: [
             "Javascript (ES6+)",
+            'TypeScript',
             "PHP",
             "Node.js",
             "SQL",
@@ -27,6 +28,7 @@ const skills = [
             'Salesforce',
             'Swift',
             'Docker',
+            'GCP',
         ],
     },
 ];

@@ -6,6 +6,17 @@ function Work() {
             <h3 className="row-title">Work</h3>
             <ul className="work-list">
                 <strong>
+                    <a href="https://mappable.ai" target="_blank" rel="noreferrer">Mappable, Inc.</a>
+                </strong>
+                <p>Lead Software Engineer, May 2017 - August 2022</p>
+                <li>Developed an academic recruitment platform from the ground up as part of the Allen Institute for AI startup incubator.</li>
+                <li>Used Git, Docker, and Google Cloud Platform to manage multi-environment CI/CD workflow.</li>
+                <li>Collaborated with founder and incubator staff in fast-paced startup environment to make key technical decisions and respond to user feedback.</li>
+                <li>Using TypeScript, React, Postgresql, and Next.js, produced a purchasable product in under three months with operating costs under $100/month.</li>
+
+                <br />
+
+                <strong>
                     <a href="https://www.sporcle.com" target="_blank" rel="noreferrer">Sporcle, Inc.</a>
                 </strong>
                 <p>Software Engineer, Sept 2017 - April 2022</p>
